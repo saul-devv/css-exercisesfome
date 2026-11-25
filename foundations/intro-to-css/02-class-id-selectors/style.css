@@ -1,1 +1,32 @@
 /* Add CSS Styling */
+
+body {
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+
+.p1 {
+    background-color: pink;
+    font-size: 18px;
+}
+
+#div1 {
+ color: blue;
+ font-size:36px; 
+}
+
+.p2 {
+    background-color: pink;
+    font-size: 18px;
+    font-style: italic;
+}
+
+#div2 {
+    background-color  : lightgreen;
+    font-weight: bold;
+}
+
+.p3 {
+    background-color: pink;
+    font-size: 18px;
+}
