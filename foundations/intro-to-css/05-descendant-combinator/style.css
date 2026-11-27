@@ -1,1 +1,12 @@
 /* Add CSS Styling */
+* {
+    box-sizing: border-box;
+    margin: 15px 0 0 0;
+    padding: 0;
+}
+.container {
+    background-color: yellow;
+    color: red;
+    text-align: center;
+}
+
